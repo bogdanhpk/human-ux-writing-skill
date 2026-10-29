@@ -1,0 +1,4 @@
+interface:
+  display_name: "Human UX Writing"
+  short_description: "Natural UX and technical writing"
+  default_prompt: "Use $human-ux-writing to rewrite this UX or technical text so it sounds natural, clear, and specific."
